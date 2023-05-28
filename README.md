@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Vijay Konakeri</h1>
 <h3 align="center">I’m a Computer Science (BCA) graduate of 2022 batch. I come with an extensive experience of working with different technologies including Artificial Inteligence, Data Analytics, Data Science, Machine Learning and Deep Learning.</h3>
 
-### Things I'm good at :fire:
+
+### Things I'm good at:fire:
 
 **Languages:** Python, SQL, HTML, CSS.
 
