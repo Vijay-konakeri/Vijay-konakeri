@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Konakeri</h1>
 <h3 align="center">I’m a Computer Science (BCA) graduate of 2022 batch. I come with an extensive experience of working with different technologies including Artificial Inteligence, Data Analytics, Data Science, Machine Learning and Deep Learning.</h3>
 
+<img align="right" alt="verified" width="200" src="https://github.com/Vijay-konakeri/Vijay-konakeri/blob/main/verified.gif">
 
 ### Things I'm good at:fire:
 
@@ -13,7 +14,7 @@
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing.
 
-<img align="right" alt="verified" width="400" src="https://github.com/Vijay-konakeri/Vijay-konakeri/blob/main/verified.gif">
+
 
 
 <br>
