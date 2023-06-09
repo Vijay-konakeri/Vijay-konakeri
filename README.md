@@ -60,7 +60,8 @@
    <img src = "https://img.shields.io/badge/-Image Processing-1572B6?style=flat&logo=Image Processing&logoColor=white">
    <img src="https://img.shields.io/badge/-Model Development & Evaluation Metrics-cc6699?style=flat&logo=Model Development & Evaluation Metrics&logoColor=ffffff">
    <img src="https://img.shields.io/badge/-Data Wrangling-4DB33D?style=flat&logo=Data Wrangling&logoColor=ffffff">
-   <img src="https://img.shields.io/badge/-Data Visualization-ff69b4?style=flat&logo=Data Visualization&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Tableau-ff69b4?style=flat&logo=Tableau&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Power BI-red?style=flat&logo=PowerBI&logoColor=ffffff">
    <img src="https://img.shields.io/badge/-Data Warehousing-yellow?style=flat&logo=Data Warehousing&logoColor=FFFFFF">
   </a>
 </p> 
