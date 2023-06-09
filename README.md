@@ -52,6 +52,22 @@
 </ul>
   
   <ul align="center">
+   <h2 style="display: inline-block">Data Analysis </h2>
+   </ul>
+   <ul align="center">
+   <img src="https://img.shields.io/badge/-Exploratory Data Analysis-blue?style=flat&logo=Exploratory Data Analysis&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Natural Language Processing-red?style=flat&logo=Natural Language Processing&logoColor=ffffff">
+   <img src = "https://img.shields.io/badge/-Image Processing-1572B6?style=flat&logo=Image Processing&logoColor=white">
+   <img src="https://img.shields.io/badge/-Model Development & Evaluation Metrics-cc6699?style=flat&logo=Model Development & Evaluation Metrics&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Data Wrangling-4DB33D?style=flat&logo=Data Wrangling&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Data Visualization-ff69b4?style=flat&logo=Data Visualization&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Data Warehousing-yellow?style=flat&logo=Data Warehousing&logoColor=FFFFFF">
+  </a>
+</p> 
+</ul>
+
+
+  <ul align="center">
    <h2 style="display: inline-block">Software Programs </h2>
    </ul>
    <ul align="center">
