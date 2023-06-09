@@ -39,8 +39,14 @@
    <h2 style="display: inline-block">Libraries </h2>
    </ul>
    <ul align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=3" />
-     
+   <img src="https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=TensorFlow&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-NumPy-blueviolet?style=flat&logo=NumPy&logoColor=ffffff">
+   <img src = "https://img.shields.io/badge/-Pandas-1572B6?style=flat&logo=Pandas&logoColor=white">
+   <img src="https://img.shields.io/badge/-Scikit Learn-cc6699?style=flat&logo=Scikit Learn&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Keras-yellow?style=flat&logo=Keras&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-SciPy-ff69b4?style=flat&logo=SciPy&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Matplotlib-4DB33D?style=flat&logo=Matplotlib&logoColor=FFFFFF">
+   <img src="https://img.shields.io/badge/-OpenCV-red?style=flat&logo=OpenCV&logoColor=FFFFFF">
   </a>
 </p> 
 </ul>
