@@ -10,7 +10,7 @@
 
 **Languages:** Python, SQL, HTML, CSS.
 
-**Framework:** Flask, Bootstrap.
+**Framework:** Flask, Django, Bootstrap.
 
 **Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, NLTK.
 
@@ -22,21 +22,22 @@
 <br>
 <p align="center"> 📫 How to reach me - <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><strong>vijay.bk698@gmail.com</strong></a></p>
 
-
-  <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Languages👨🏻‍💻</h2></summary>
+<ul align="center">
+  <h2 style="display: inline-block">Languages</h2>
   </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js&perline=5" />
-<br><br>
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,figma,firebase,linux,vscode&perline=14" />
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    
+   <ul align="center">
+   <h2 style="display: inline-block">Framework</h2>
+   </ul>
+   <ul align="center">
+    <img src="https://skillicons.dev/icons?i=django,flask,bootstrap&perline=3" />
+     
   </a>
-</p>
+</p> 
+</ul>
  
    
 <h3 align="center">Connect with me:</h3>
