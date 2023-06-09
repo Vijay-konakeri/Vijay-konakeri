@@ -38,18 +38,15 @@
    <ul align="center">
    <h2 style="display: inline-block">Libraries </h2>
    </ul>
-   <ul align="center">
-   <img src="https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=TensorFlow&logoColor=ffffff">
-   <img src="https://img.shields.io/badge/-NumPy-blueviolet?style=flat&logo=NumPy&logoColor=ffffff">
-   <img src = "https://img.shields.io/badge/-Pandas-1572B6?style=flat&logo=Pandas&logoColor=white">
-   <img src="https://img.shields.io/badge/-Scikit Learn-cc6699?style=flat&logo=Scikit Learn&logoColor=ffffff">
-   <img src="https://img.shields.io/badge/-Keras-yellow?style=flat&logo=Keras&logoColor=ffffff">
-   <img src="https://img.shields.io/badge/-SciPy-ff69b4?style=flat&logo=SciPy&logoColor=ffffff">
-   <img src="https://img.shields.io/badge/-Matplotlib-4DB33D?style=flat&logo=Matplotlib&logoColor=FFFFFF">
-   <img src="https://img.shields.io/badge/-OpenCV-red?style=flat&logo=OpenCV&logoColor=FFFFFF">
-  </a>
-</p> 
-</ul>
+   
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%230C55A5.svg?style=for-the-badge&logo=opencv&logoColor=%white) 
   
   <ul align="center">
    <h2 style="display: inline-block">Data Analysis </h2>
