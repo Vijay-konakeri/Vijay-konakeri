@@ -1,6 +1,6 @@
 <img align="center" alt="main" src="https://github.com/Vijay-konakeri/Vijay-konakeri/blob/main/main.jpg">
 <h1 align="center">Hi 👋, I'm Vijay</h1>
-<h3 align="center">I’m a Computer Science (BCA) graduate of 2022 batch. I come with an extensive experience of working with different technologies including Artificial Inteligence, Data Analytics, Data Science, Machine Learning and Deep Learning.</h3>
+<h3 align="center">I’m a Computer Science (BCA) graduate. I come with an extensive experience of working with different technologies including Artificial Inteligence, Data Analytics, Data Science, Machine Learning and Deep Learning.</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -35,8 +35,22 @@
    <ul align="center">
     <img src="https://skillicons.dev/icons?i=django,flask,bootstrap&perline=3" />
      
+   <ul align="center">
+   <h2 style="display: inline-block">Libraries </h2>
+   </ul>
+   <ul align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=3" />
+     
   </a>
 </p> 
+</ul>
+  
+  <ul align="center">
+   <h2 style="display: inline-block">Software Programs </h2>
+   </ul>
+   <ul align="center">
+    <img src="https://skillicons.dev/icons?i=git,aws,github,vscode,figma,ae,pr,xd,ps,atom,linux&perline=15" />
+  </a>
 </ul>
  
    
