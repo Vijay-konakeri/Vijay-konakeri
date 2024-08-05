@@ -1,6 +1,6 @@
 <img align="center" alt="main" src="https://github.com/Vijay-konakeri/Vijay-konakeri/blob/main/main.jpg">
 <h1 align="center">Hi 👋, I'm Vijay</h1>
-<h3 align="center">I’m a Computer Science (BCA) graduate. I come with an extensive experience of working with different technologies including Artificial Inteligence, Data Analytics, Data Science, Machine Learning and Deep Learning.</h3>
+<h3 align="center">I’m a Computer Science (BCA)3rd year student, I come with an extensive experience of working with different technologies including Artificial Inteligence, Data Analytics, Data Science, Machine Learning and Deep Learning.</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
