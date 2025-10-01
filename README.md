@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Vijay Konakeri
+#Vijay Konakeri
 
 ### AI Engineer | Building Intelligent Systems with LLMs & Gen AI
 
