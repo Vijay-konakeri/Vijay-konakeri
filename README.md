@@ -20,30 +20,76 @@
 
 ## 💫 About Me
 
-```python
-class VijayKonakeri:
-    def __init__(self):
-        self.role = "Gen AI/ML Engineer @ Centelon Solutions"
-        self.location = "Bangalore 🇮🇳"
-        self.expertise = ["LLMs", "RAG Systems", "Multi-Agent AI"]
-        self.experience = "2+ years"
-        
-    def current_focus(self):
-        return [
-            "🤖 Building production-grade LLM applications",
-            "🎯 Architecting RAG pipelines with 85%+ accuracy",
-            "⚡ Fine-tuning models with LoRA/PEFT",
-            "☁️ Deploying scalable AI on AWS & Azure"
-        ]
-    
-    def achievements(self):
-        return {
-            "productivity_boost": "35% faster dev time with AI assistant",
-            "documents_indexed": "4000+ enterprise docs",
-            "developers_impacted": "50+ engineers",
-            "retrieval_accuracy": "85%+"
-        }
-```
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ✨ *Transforming Ideas into Intelligent Solutions* ✨
+
+</div>
+
+I'm a **passionate AI Engineer** with **2+ years** of hands-on experience crafting production-grade **Generative AI solutions**. Currently working at **Centelon Solutions** in Bangalore, I specialize in building intelligent systems that make a real difference.
+
+My journey in AI is driven by curiosity and innovation. I love exploring the endless possibilities of **Large Language Models**, architecting sophisticated **RAG pipelines**, and creating **multi-agent systems** that solve complex real-world challenges. Whether it's fine-tuning models with LoRA/PEFT or deploying scalable AI solutions on cloud platforms, I thrive on pushing the boundaries of what's possible.
+
+<div align="center">
+
+### 🎯 What I Do Best
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
+<br><b>🤖 Gen AI Development</b>
+<br><sub>Building LLM applications with GPT-4, Llama-2, and Mistral</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/search.png" width="60"/>
+<br><b>🔍 RAG Systems</b>
+<br><sub>Architecting pipelines with 85%+ accuracy using Pinecone & ChromaDB</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60"/>
+<br><b>☁️ Cloud Deployment</b>
+<br><sub>Scalable AI solutions on AWS SageMaker & Azure</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/settings.png" width="60"/>
+<br><b>⚡ Model Fine-tuning</b>
+<br><sub>Optimizing LLMs with LoRA/PEFT techniques</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/api.png" width="60"/>
+<br><b>🚀 API Development</b>
+<br><sub>Building robust inference APIs with Flask & FastAPI</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/mentor.png" width="60"/>
+<br><b>📚 Mentorship</b>
+<br><sub>Guiding teams in prompt engineering & LLMOps</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🌟 My Impact
+
+<br>
+
+**35%** reduction in development time  •  **85%+** retrieval accuracy  •  **4000+** documents indexed  •  **50+** developers empowered
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+Beyond coding, I'm passionate about **sharing knowledge**. You'll find me writing technical articles on Medium, contributing to open-source, and staying ahead of the curve with the latest in LLMs and GenAI. I believe in continuous learning and collaborative innovation—because the best solutions emerge when great minds work together.
 
 ---
 
@@ -51,7 +97,7 @@ class VijayKonakeri:
 
 <div align="center">
 
-### 🤖 AI & ML
+### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -59,7 +105,7 @@ class VijayKonakeri:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🗄️ Vector & Databases
+### 🗄️ Vector Databases & Search
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge)
@@ -71,67 +117,48 @@ class VijayKonakeri:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🌐 Web & Frameworks
+### 🌐 Web Development & Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 💡 Description | 🛠️ Tech |
-|------------|----------------|----------|
-| **AI Code Assistant** | VS Code extension reducing dev time by 35% | GPT-4o, Azure, TypeScript |
-| **RAG Pipeline** | 85%+ accuracy across 4K+ documents | Pinecone, LangChain, OpenAI |
-| **RFP Assistant** | Automated proposal generation system | GPT-4, Flask, python-pptx |
-| **SDG Tool** | Synthetic data generator for testing | Python, Hugging Face |
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Experience Timeline
+## 📚 Experience Timeline
 
 <div align="center">
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 timeline
-    title Career Journey
-    2019-2022 : BCA Degree : Rani Channamma University
-    2023-2024 : Junior Data Scientist : Inquipo Technologies
-    2024-Present : Gen AI Engineer : Centelon Solutions
+    title My Journey
+    2019-2022 : 🎓 Bachelor in Computer Applications : Rani Channamma University
+    2023-2024 : 💼 Junior Data Scientist : Inquipo Technologies
+    2024-Present : 🚀 Gen AI/ML Engineer : Centelon Solutions
 ```
 
 </div>
 
 ---
 
-## 🎯 Certifications
+## 🎯 Certifications & Achievements
 
 <div align="center">
 
-🏅 **Oracle Certified Professional** - Generative AI  
-🏅 **Generative AI with LLMs** - Coursera  
-🏅 **Deep Learning & AI** - Udemy  
-🏅 **Data Analytics** - LinkedIn
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijay-konakeri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-konakeri&layout=compact&langs_count=8&theme=radical"/>
+| 🏅 Certification | 🏛️ Organization |
+|:---------------:|:---------------:|
+| **Oracle Certified Professional - Generative AI** | Oracle |
+| **Generative AI with Large Language Models** | Coursera |
+| **Deep Learning and Artificial Intelligence** | Udemy |
+| **Data Analytics Professional Certificate** | LinkedIn |
 
 </div>
 
@@ -141,8 +168,13 @@ timeline
 
 <div align="center">
 
-🎯 **Prompt Engineering** • 🤖 **Multi-Agent Systems** • 🔍 **Advanced RAG**  
-⚡ **Model Fine-tuning** • ☁️ **LLMOps** • 🚀 **Scalable AI APIs**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**Exploring:** Prompt Engineering • Multi-Agent Systems • Advanced RAG Architectures  
+**Building:** Scalable LLM Applications • Vector Search Solutions • AI-Powered Tools  
+**Learning:** Latest LLM Techniques • LLMOps Best Practices • Cloud-Native AI
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -152,16 +184,25 @@ timeline
 
 <div align="center">
 
-**💬 Open for:** Collaborations • Freelance • AI Consulting • Tech Talks
+### 💬 *I'm always excited to collaborate on innovative AI projects!*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-konakeri)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijay.bk698@gmail.com)
-[![Twitter](https://img.shields.io/badge/Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaykonakeri)
+**Open for:** AI Collaborations • Freelance Opportunities • Tech Consulting • Speaking Engagements
 
----
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-konakeri)
+[![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijay.bk698@gmail.com)
+[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaykonakeri)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vijaykonakeri.dev)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚡ *"Building the future with AI, one model at a time"* ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
