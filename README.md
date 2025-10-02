@@ -146,43 +146,6 @@ timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 Current Focus
-
-<div align="center">
-
-```yaml
-exploring:
-  - Prompt Engineering
-  - Multi-Agent Systems
-  - Advanced RAG Architectures
-  
-building:
-  - Scalable LLM Applications
-  - Vector Search Solutions
-  - AI-Powered Tools
-  
-learning:
-  - Latest LLM Techniques
-  - LLMOps Best Practices
-  - Cloud-Native AI
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijay-konakeri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-konakeri&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay-konakeri&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect!
 
@@ -214,8 +177,6 @@ learning:
 ### ⚡ *"Building the future with AI, one model at a time"* ⚡
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Vijay-konakeri&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
