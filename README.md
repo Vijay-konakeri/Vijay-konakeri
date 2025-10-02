@@ -34,6 +34,25 @@ My journey in AI is driven by curiosity and innovation. I love exploring the end
 
 <div align="center">
 
+---
+
+## 📚 Experience Timeline
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+timeline
+    title My Journey
+    2019-2022 : 🎓 Bachelor in Computer Applications : Rani Channamma University
+    2023-2024 : 💼 Junior Data Scientist : Inquipo Technologies
+    2024-Present : 🚀 Gen AI/ML Engineer : Centelon Solutions
+```
+
+</div>
+
+---
+
 ### 🎯 What I Do Best
 
 </div>
@@ -130,24 +149,7 @@ Beyond coding, I'm passionate about **sharing knowledge**. You'll find me writin
 
 </div>
 
----
 
-## 📚 Experience Timeline
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-timeline
-    title My Journey
-    2019-2022 : 🎓 Bachelor in Computer Applications : Rani Channamma University
-    2023-2024 : 💼 Junior Data Scientist : Inquipo Technologies
-    2024-Present : 🚀 Gen AI/ML Engineer : Centelon Solutions
-```
-
-</div>
-
----
 
 ## 🎯 Certifications & Achievements
 
