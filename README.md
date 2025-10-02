@@ -52,7 +52,7 @@ timeline
         2024-Present : 🚀 Gen AI/ML Engineer
                      : Centelon Solutions
     section Open Source
-        2024 : 🌟 Opensource Contribution
+        Continuous : 🌟 Opensource Contribution
              : Contributing to AI/ML Projects
 ```
 
