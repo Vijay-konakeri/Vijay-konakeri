@@ -12,8 +12,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Gen+AI+%7C+LLMs+%7C+RAG+Systems;Building+Production+AI+Solutions;2%2B+Years+in+AI%2FML+Engineering" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=vijay-konakeri&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
 </div>
 
 ---
